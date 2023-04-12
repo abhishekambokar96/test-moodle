@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * This file contains the Activity modules block.
+ * This file contains the Test block.
  *
  * @package    block_test
  * @copyright  1999 onwards Martin Dougiamas (http://dougiamas.com)
